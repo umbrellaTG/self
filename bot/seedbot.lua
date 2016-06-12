@@ -220,56 +220,46 @@ function create_config( )
     "banhammer",
     "download-media",
     "stats",
-    "anti_spam",
-    "tagall",
-    "stik",
-    "join",
     "owners",
     "arabic_lock",
     "azan",
-    "aparat",
-    "clash",
     "badword",
     "set",
-    "time",
-    "spam",
-    "me",
     "google",
-    "bot",
-    "block",
     "get",
-    "map",
-    "rank",
     "broadcast",
     "addp",
-    "ver",
     "web",
-    "share",
-    "GPS",
     "invite",
     "all",
     "leave_ban",
     "supergroup",
     "whitelist",
     "pl",
-    "id",
     "send",
     "msg_checks",
-    "abbas",
-    "121212",
-    "picme",
-    "team",
-    "spamtak"
+    "time",
+    "date",
+    "insta",
+    "on-off",
+    "rem",
+    "down",
+    "photo",
+    "sticker",
+    "weather",
+    "dl-link",
+    "cm"
   },
-    sudo_users = {211952272},--Sudo users
+    sudo_users = {215899310},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[@Iiborn
-😎😎😎😎
 ]],
     help_text_realm = [[
 -_-
-
 ]],
+    help_text_super = [[
+
+]],    
     help_text = [[
 -_-
 
